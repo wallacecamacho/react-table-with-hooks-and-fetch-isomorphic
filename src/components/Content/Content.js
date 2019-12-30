@@ -9,8 +9,12 @@ export default function Content() {
 
 
   async function fetchMyAPI() {
-    let response = await findExamples();
-    setData(response)
+    try {
+      let response = await findExamples();
+      setData(response);
+    } catch(err) {
+      console.log(err);
+    }
   }
 
   useEffect(() => {

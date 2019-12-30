@@ -1,7 +1,7 @@
 ⚛️ React material table with ⚓ React Hooks and Fetch Isomorphic
 
 
-[![ReactHook](https://raw.githubusercontent.com/PJijin/React-Material-Table-with-Hooks/master/preview.png?raw=true "ReactHook")]()
+[![ReactHook](https://github.com/wallacecamacho/react-table-with-hooks-and-fetch-isomorphic/blob/master/preview.png "ReactHook")]()
 
 ## 📦 Packages
 
